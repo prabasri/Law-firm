@@ -1,0 +1,42 @@
+.introSection {
+  background-color: #1d1d1d;
+  color: #FFFFFF;
+  padding: 100px 150px;
+  /* position: relative; */
+  min-height: 500px;
+}
+
+.column {
+  width: 50%;
+  float: left;
+}
+
+.row:after {
+  clear: both ;
+}
+
+.borderAsVerticalLine {
+  border-left: 2px solid gray;
+  padding-left: 70px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.leftCol {
+  font-size: 54px;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
+  padding-right: 30px;
+} 
+
+.rightCol {
+  font-size: 32px;
+  font-weight: 600;
+  font-family: 'Inter', sans-serif;
+}
+
+/* .vl {
+  rotate: 90deg;
+  position: absolute;
+} */
+

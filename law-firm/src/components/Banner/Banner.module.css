@@ -1,0 +1,25 @@
+.banner {
+  background-color: #111111;
+  padding: 40px 150px;
+  display: flex;
+  font-family: 'Inter', sans-serif ;
+  padding-bottom: 100px;
+}
+
+.slogan {
+  color: #FFFFFF;
+  font-size: 66px;
+  font-weight: 500;
+  line-height: 97px;
+  margin-top: 80px;
+  margin-right: 60px;
+}
+
+.para {
+  /* color: #FFFFFF; */
+  color: rgba(108, 102, 102, 0.737);
+  margin-top: 30px;
+  margin-right: 60px;
+  font-size: 18px;
+}
+
