@@ -1,0 +1,29 @@
+.navbar {
+  background-color: #111111;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 30px 80px;
+}
+
+.menubar {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  color: #FFFFFF;
+  width: 431px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.contactNow {
+  font-family: 'Inter', sans-serif;
+  background-color: #111111;
+  color: #FFFFFF;
+  border: 2px solid #FFFFFF;
+  width: 172px;
+  height: 47px;
+  font-weight: 600;
+  text-align: center;
+  cursor: pointer;
+}
