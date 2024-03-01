@@ -4,6 +4,7 @@
   padding: 100px 150px;
   /* position: relative; */
   min-height: 500px;
+  font-family: 'Inter', sans-serif;
 }
 
 .column {
@@ -25,18 +26,13 @@
 .leftCol {
   font-size: 54px;
   font-weight: 600;
-  font-family: 'Inter', sans-serif;
   padding-right: 30px;
+  margin-top: 20px;
 } 
 
 .rightCol {
   font-size: 32px;
   font-weight: 600;
-  font-family: 'Inter', sans-serif;
+  margin-bottom: 20px;
 }
-
-/* .vl {
-  rotate: 90deg;
-  position: absolute;
-} */
 

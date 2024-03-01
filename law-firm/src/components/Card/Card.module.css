@@ -1,0 +1,16 @@
+.iconContainer {
+  height: 100px;
+  width: 100px;
+  background-color: #FFFFFF;
+  border-radius: 50px;
+  border: 1.4px solid gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Inter', sans-serif;
+}
+
+.successRate {
+  color: #FFFFFF;
+  font-weight: 500;
+}
